@@ -4,9 +4,8 @@ This document describes a Looker Studio dashboard designed to provide a comprehe
 The dashboard presents key sales metrics and trends, allowing users to analyze performance across different dimensions such as region, category, segment, and time. It uses a dark theme with teal accents for improved readability and visual appeal.
 
 
-# Looker Studio Dashboard: Executive Summary & Overall Performance
+# Executive Summary & Overall Performance
 
-This Looker Studio dashboard provides a high-level overview of sales performance, enabling quick insights into key metrics and trends.
 
 ## Overview
 
@@ -22,9 +21,7 @@ Gain a rapid understanding of overall sales performance across regions, categori
 
 This dashboard is ideal for executives and stakeholders seeking a concise snapshot of sales performance.
 
-# Looker Studio Dashboard: Sales & Regional Performance
-
-This Looker Studio dashboard focuses on analyzing sales performance with a regional lens, providing insights into regional contributions and trends.
+# Sales & Regional Performance
 
 ## Overview
 
@@ -39,9 +36,9 @@ Understand regional sales dynamics and performance over time. This dashboard fea
 ![Sales   Regional Performance](https://github.com/user-attachments/assets/96637c21-5524-4d59-9933-8302511f6483)
 
 This dashboard is valuable for regional sales managers and analysts.
-# Looker Studio Dashboard: Product & Discount Analysis
+# Product & Discount Analysis
 
-This Looker Studio dashboard analyzes product performance and the impact of discounts on sales and profitability.
+
 
 ## Overview
 
@@ -57,9 +54,8 @@ Gain insights into product performance, discount effectiveness, and overall prof
 ![Product   Discount Analysis](https://github.com/user-attachments/assets/0b9aedba-eb11-4265-b3da-d7ed30f38f36)
 
 This dashboard is beneficial for product managers, sales analysts, and pricing strategists.
-# Looker Studio Dashboard: Customer Analysis
+# Customer Analysis
 
-This Looker Studio dashboard provides a comprehensive analysis of customer data, revealing key insights into customer behavior and engagement.
 
 ## Overview
 
@@ -75,9 +71,7 @@ Understand customer demographics, purchasing patterns, and loyalty. This dashboa
 ![Customer Analysis](https://github.com/user-attachments/assets/8b60a7c2-d25d-4052-a1be-afb035fcc248)
 
 This dashboard is useful for customer relationship management, marketing analysis, and sales strategy.
-# Looker Studio Dashboard: Payment Analysis
-
-This Looker Studio dashboard analyzes payment data, providing insights into payment method usage and sales distribution.
+# Payment Analysis
 
 ## Overview
 
