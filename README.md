@@ -1,5 +1,7 @@
 # Sales_Looker_Studio
 This document describes a Looker Studio dashboard designed to provide a comprehensive overview of sales performance.
+*   Looker Studio Dashboard:
+ https://lookerstudio.google.com/reporting/eee7fcbe-c420-4f09-9a2f-5e413f23eccc
 # Overview
 The dashboard presents key sales metrics and trends, allowing users to analyze performance across different dimensions such as region, category, segment, and time. It uses a dark theme with teal accents for improved readability and visual appeal.
 
